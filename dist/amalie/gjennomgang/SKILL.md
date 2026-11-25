@@ -23,7 +23,7 @@ Er teksten lengre enn omtrent 1 500 ord, spør hvilken del som er viktigst, elle
 
 ## 2. Finn teksttype, avsenderens stil og tone
 
-Last `amalie:skriveregler`. Les [regler.md](../skriveregler/regler.md) (del A–D), [teksttyper.md](../skriveregler/teksttyper.md) og [tone.md](../skriveregler/tone.md).
+Last `skriveregler/SKILL.md`. Les [regler.md](../skriveregler/regler.md) (del A–D), [teksttyper.md](../skriveregler/teksttyper.md) og [tone.md](../skriveregler/tone.md).
 
 - **Teksttype:** Bestem typen for hver del. En informasjonsside kan ha brødtekst (T2), knapper (T1) og en kampanjeboks (T3). Hver del vurderes etter sin types regler.
 - **Avsenderens stil og ordliste:** Les avsenderen av nettadressen eller innholdet. Spør om avsenderen har en stilguide eller ordliste. Har den ingen, bruk bare grunnreglene.

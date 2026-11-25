@@ -1,0 +1,8 @@
+{
+  "name": "amalie",
+  "version": "1.0.0",
+  "description": "Amalie: skriveagent for norske innholdsfolk. Skriver, går gjennom, redigerer og forklarer tekst etter ti grunnregler, og følger kundens stil når du peker på den. Oppkalt etter Amalie Skram.",
+  "author": {
+    "name": "Chris Aadland"
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: skriveregler
-description: Skriveregler for klar norsk tekst – nettsider, e-post, brev, rapporter, presentasjoner, innlegg og tekst i apper. Tre lag – grunnreglene (alltid like), avsenderens stil (fra stilguiden til den du skriver for) og tone (settes per tekst). Bruk før du skriver eller retter en tekst på norsk, og når brukeren sier "skriv", "lag tekst", "rett språket", "klarspråk", "stil og tone", "for lekent", "for stivt", "rart språk", "hvordan kan dette tolkes". For å gå gjennom en tekst som allerede finnes, bruk amalie:gjennomgang.
+description: Skriveregler for klar norsk tekst – nettsider, e-post, brev, rapporter, presentasjoner, innlegg og tekst i apper. Tre lag – grunnreglene (alltid like), avsenderens stil (fra stilguiden til den du skriver for) og tone (settes per tekst). Bruk før du skriver eller retter en tekst på norsk, og når brukeren sier "skriv", "lag tekst", "rett språket", "klarspråk", "stil og tone", "for lekent", "for stivt", "rart språk", "hvordan kan dette tolkes". For å gå gjennom en tekst som allerede finnes, bruk gjennomgang/SKILL.md.
 ---
 
 # Skriveregler
@@ -58,4 +58,4 @@ Finner noen en ny dårlig setning, legg den inn i del B i [regler.md](regler.md)
 
 ## Forhold til andre skills
 
-- **amalie:gjennomgang:** går gjennom tekst som allerede finnes, og lister bruddene på disse reglene.
+- **gjennomgang/SKILL.md:** går gjennom tekst som allerede finnes, og lister bruddene på disse reglene.

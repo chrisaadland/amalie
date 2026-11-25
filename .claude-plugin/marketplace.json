@@ -1,8 +1,13 @@
 {
-  "name": "amalie-lite",
-  "owner": { "name": "Chris Aadland" },
-  "description": "Amalie Lite, skriveassistent for klar norsk tekst.",
+  "name": "amalie-lokal",
+  "owner": {
+    "name": "Chris Aadland"
+  },
   "plugins": [
-    { "name": "amalie", "source": "./", "description": "Skriveassistent for klar norsk tekst: skriveregler, tone og gjennomgang av tekst." }
+    {
+      "name": "amalie",
+      "source": "./plugins/amalie",
+      "description": "Amalie: skriveagent for norske innholdsfolk."
+    }
   ]
 }
