@@ -1,5 +1,20 @@
 # Endringslogg for Amalie
 
+## 1.1.0 – 2026-11-27: kommersiell avsender
+
+- **Nytt oppslag `kommersiell.md` (KA1–KA4).** Amalie bruker det når avsenderen selger et produkt eller en tjeneste, og leseren er kunde. Sannheten og tallene står som før. Oppslaget endrer hvordan sannheten blir sagt. Grunnen: Chris ville at tekster for kommersielle kunder skal være ærlige og samtidig få fram det positive. Grunnlaget er rettelser Chris har gjort i tekster for én matvarekunde, gjort generelle.
+  - KA1: Sannheten står, like sterkt som i kilden. Kontrollsteg for fakta, styrke, søkeord, egne utregninger, bindesetninger og sikkerhetsinformasjon.
+  - KA2: Ulempen står tidlig, sammen med det kunden får igjen.
+  - KA3: Avsenderen holder seg i rollen sin. Offentlige råd om produkttypen står med kilden. Råd og tall om hele kostholdet eller hele økonomien strykes.
+  - KA4: Les teksten som en kunde som tviler. KA4 endrer ordene, aldri rekkefølgen.
+- **Tre regler for alle avsendere:** G6 sier hva en egenskap gjør og hva leseren merker. G2 sier at siste avsnitt sier hva leseren får eller kan gjøre. Ny B18 i feilkatalogen: forsvar og innrømmelser. Eksempelet «Her er tallene, så kan du vurdere selv» er tatt ut av B6, fordi B18 stryker frasen.
+- **Gjennomgang:** Et faktum som mangler eller er svakere enn i kilden hos en kommersiell avsender, er et funn med høy alvorlighet (KA1).
+- **Tester som var grunnlaget:** Tre blindtester 27.11 i `docs/blindtest-2026-11-27*/`. Runde 1 viste at justeringen skjøv ulempen nedover, og KA2 ble rettet. Runde 2 viste at kontrollsteget slapp gjennom en sammenligning uten «omtrent», og KA1 ble strammet inn. Runde 3, med vanskelige saker, viste at justeringen ga tryggere tekster, og at offentlige råd om produkttypen bør stå (KA3).
+
+## Rettelse 2026-11-27
+
+- **B17 gjelder også enkeltord i grensesnitt.** Grunnen: en overskrift sa «6 endringer venter på deg» om forslag som ennå ikke var godkjent. Leseren tok det som endringer som var gjort. B17 har fått en setning om ord som «endringer» og «oppdateringer», og et nytt eksempel om priser. Testene i `tests/` er ikke kjørt etter endringen.
+
 ## 1.0.0 (under arbeid) – satt sammen etter regelvurderingen
 
 Fire ekspertdommere leste to regelsett uten å vite hvilket som var hvilket: 1.0 bygget på 0.12, og første utgave av 1.0 med ti grunnregler. Alle fire valgte grunnreglene som grunnlag. Vurderingen står i `docs/regelvurdering-2026-11-23.md`. Reglene er satt sammen etter det de var enige om:

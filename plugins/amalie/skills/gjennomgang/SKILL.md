@@ -28,6 +28,7 @@ Les [grunnregler.md](../skriveregler/grunnregler.md), [feilkatalog.md](../skrive
 - **Teksttype:** Bestem typen for hver del. En informasjonsside kan ha brødtekst (T2), knapper (T1) og en kampanjeboks (T3).
 - **Tone:** Vurder hvilken tone teksten trenger, ut fra leseren og teksttypen.
 - **Kundens stil:** Bare når brukeren peker på den (se «Kundens stil og tone» i `amalie:skriveregler`). Et funn som strider mot kundens regelnotat, meldes ikke.
+- **Kommersiell avsender:** Selger avsenderen et produkt eller en tjeneste, og er leseren kunde? Sjekk da teksten mot [kommersiell.md](../skriveregler/kommersiell.md) også. Et faktum som mangler eller er gjort svakere enn i kilden (KA1), er et funn med høy alvorlighet.
 
 ## 3. Gå gjennom teksten
 
@@ -47,8 +48,8 @@ Ta bare med reelle brudd. Det er bedre med fem riktige funn enn tjue tvilsomme. 
 
 | Alvorlighet | Hva det betyr | Typiske regler |
 |---|---|---|
-| **Høy** | Leseren kan misforstå, ta feil valg eller ikke klare oppgaven. Eller teksten påstår noe som ikke kan dokumenteres, gir to svar på samme spørsmål, bruker et ord kundens ordliste forbyr, eller stenger noen lesere ute. | G1, G2, G5, G7, B1, B5, B6, B11, B12, B17, C10, T1 (feilmeldinger og dialoger), D5, D9, D11, E3, E4, E9, E11 |
-| **Middels** | Leseren forstår, men bruker lengre tid eller mister tillit. Telegramstil, oversatt språk, fagord uten forklaring, lange setninger, tomme fraser, feil tone, like elementer bygd ulikt, gjentakelser. | G3, G4, G6, G8, G9, G10, B2–B4, B7–B10, B13–B16, resten av T1, T2–T8, D1–D4, D6–D8, D10, D12–D16, E2, E6–E8, Stil, Tone |
+| **Høy** | Leseren kan misforstå, ta feil valg eller ikke klare oppgaven. Eller teksten påstår noe som ikke kan dokumenteres, gir to svar på samme spørsmål, bruker et ord kundens ordliste forbyr, eller stenger noen lesere ute. | G1, G2, G5, G7, KA1, B1, B5, B6, B11, B12, B17, C10, T1 (feilmeldinger og dialoger), D5, D9, D11, E3, E4, E9, E11 |
+| **Middels** | Leseren forstår, men bruker lengre tid eller mister tillit. Telegramstil, oversatt språk, fagord uten forklaring, lange setninger, tomme fraser, feil tone, like elementer bygd ulikt, gjentakelser. | G3, G4, G6, G8, G9, G10, B2–B4, B7–B10, B13–B16, B18, resten av T1, T2–T8, D1–D4, D6–D8, D10, D12–D16, E2, E6–E8, Stil, Tone |
 | **Lav** | Typografi og skrivemåte. | C1–C9, C11–C14 |
 
 Regelen i tabellen er et utgangspunkt. Vurder hvor mye feilen betyr for leseren akkurat her. En feil i et notat bare kunden leser, er middels, med mindre den kan få kunden til å ta en feil beslutning. En feil i et arbeidsdokument (T7) vurderes som om den sto i teksten leseren ser.

@@ -43,7 +43,7 @@ Har kunden ingen stilguide, kan hun lage et utkast etter [malen](plugins/amalie/
 Skriv disse to kommandoene i Claude Code:
 
 ```
-/plugin marketplace add chrisaadland/amalie-tre
+/plugin marketplace add chrisaadland/amalie
 ```
 
 ```
@@ -51,8 +51,6 @@ Skriv disse to kommandoene i Claude Code:
 ```
 
 Start Claude Code på nytt etterpå. Nye versjoner henter du med `/plugin marketplace update amalie-lokal`.
-
-Repoet er privat inntil videre. Be Chris Aadland om tilgang.
 
 ## Installer i Claude-appen (claude.ai eller desktop)
 
@@ -71,10 +69,11 @@ Si det til henne: «Amalie, dette ordet skal stå, fordi folk søker på det.» 
 |---|---|
 | [grunnregler.md](plugins/amalie/skills/skriveregler/grunnregler.md) | De ti grunnreglene og tabellen for mengden innhold |
 | [helhet.md](plugins/amalie/skills/skriveregler/helhet.md) | Om teksten henger sammen (E1–E12), leses alltid |
-| [feilkatalog.md](plugins/amalie/skills/skriveregler/feilkatalog.md) | Vanlige feil og KI-mønstre (B1–B17) |
+| [feilkatalog.md](plugins/amalie/skills/skriveregler/feilkatalog.md) | Vanlige feil og KI-mønstre (B1–B18) |
 | [skrivemaate.md](plugins/amalie/skills/skriveregler/skrivemaate.md) | Typografi, tall og datoer (C1–C14) |
 | [alle-lesere.md](plugins/amalie/skills/skriveregler/alle-lesere.md) | Inkluderende språk, universell utforming og lenker (D1–D16) |
 | [teksttyper.md](plugins/amalie/skills/skriveregler/teksttyper.md) | Grensesnitt, informasjonsside, markedsføring, nyhet, e-post og vedtak, rapport, arbeidsdokument, metabeskrivelse og beslutningsgrunnlag |
 | [tone.md](plugins/amalie/skills/skriveregler/tone.md) | De fire skalaene for tone, kanal, og samme beskjed i fem toner |
+| [kommersiell.md](plugins/amalie/skills/skriveregler/kommersiell.md) | Når avsenderen selger noe: sannheten like sterk som i kilden, ulempen tidlig, avsenderens rolle og lesing som en kunde som tviler (KA1–KA4) |
 | [CHANGELOG.md](plugins/amalie/CHANGELOG.md) | Hva som er endret i hver versjon |
 | [tests/](tests/) | Gjennomgangstester og skrivetester, med [resultater](tests/skriving/resultater-12.md) |

@@ -40,7 +40,7 @@ Før du skriver, finn ut tre ting: hvem leseren er, hvilke spørsmål leseren ha
 
 Svaret eller konklusjonen står i første setning, og bakgrunnen kommer etterpå. Overskriften sier budskapet eller hva leseren kan gjøre. En ingress sier hva leseren får, og den er ikke en liste over emner. Folk skumleser, så toppen må bære budskapet alene.
 
-Skal leseren gjøre noe, står handlingen i de første ordene, før avsender og bakgrunn. Hovedhandlingen står tidlig og igjen til slutt. En knapp sier hva som skjer når du trykker: «Bestill time», «Gi 200 kroner». Står det ingen handling i faktaene, finn ikke på en. Sett en markør.
+Skal leseren gjøre noe, står handlingen i de første ordene, før avsender og bakgrunn. Hovedhandlingen står tidlig og igjen til slutt. Siste avsnitt sier hva leseren får, eller hva leseren kan gjøre nå. En knapp sier hva som skjer når du trykker: «Bestill time», «Gi 200 kroner». Står det ingen handling i faktaene, finn ikke på en. Sett en markør.
 
 | Dårlig | Bra |
 |---|---|
@@ -111,6 +111,7 @@ Hvert ord og hver setning kan bare leses på én måte.
 - Bruk ordene leseren bruker. Et fagord forklares første gang. Interne forkortelser og prosjektord brukes ikke i tekst til leseren.
 - Si hvem, med rollen fra kilden. Står det i kilden hvem som gjør noe, skriv rollen: «en sykepleier», «saksbehandleren din». Står det ikke, stryk personen. Finn aldri på en rolle. «Den som svarer» og «noen» er ikke konkrete.
 - Si hva hjelpen er, med det kilden sier. Et løfte om hjelp sier hva leseren får, og hvem som gir det. Gir ikke kilden noe innhold i løftet, stryk det. «Vi hjelper deg videre» sier ingenting.
+- Si hva en egenskap gjør, og hva leseren merker av den. «Sålen er av gummi» sier lite. «Sålen demper hvert steg, så føttene er mindre slitne etter en lang dag» sier hva leseren får.
 - Egne inndelinger, som steg, faser og grupper, er også prosjektord. Hver del får én forklaring og ett eksempel første gang den står.
 
 | Dårlig | Bra |

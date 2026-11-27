@@ -21,6 +21,7 @@ Vanlige feil i tekster fra mennesker og fra KI. Hver feil viser hvilken grunnreg
 | B15 | Retteforbehold | G9 |
 | B16 | Engelsk setningsbygning og skriftspråksord | G3 |
 | B17 | Planlagt skrevet som ferdig | G7 |
+| B18 | Forsvar og innrømmelser | G9 |
 
 ---
 
@@ -62,7 +63,7 @@ Se G3.
 | Dårlig | Bra |
 |---|---|
 | Vi tar dette på alvor. Vi er opptatt av … | Vi er sertifisert etter ISO 27001. |
-| Du kan trygt fortsette å … | Her er tallene, så kan du vurdere selv. |
+| Du kan trygt fortsette å … | Stoffet er godkjent for bruk i mat i hele EU. |
 
 Skriv bare påstander som kan dokumenteres.
 
@@ -195,7 +196,21 @@ Pek mønsteret ut én gang når det går igjen (B13).
 
 Teksten beskriver en funksjon, en avtale eller et resultat som om det finnes, når det bare er planlagt. Leseren tar en beslutning på feil grunnlag. Hver påstand om hva noe gjør, hvor ofte og hva det koster, sjekkes mot kilden, for eksempel spesifikasjonen, avtalen eller premissarket. Én markør nederst veier ikke opp for en hel tekst i presens.
 
+Det gjelder også enkeltord i grensesnitt og overskrifter. Ord som «endringer», «oppdateringer» og «nye priser» leses som noe som allerede er gjort. Er det bare foreslått, skriv «forslag til …».
+
 | Dårlig | Bra |
 |---|---|
 | Appen måler hvor mye strøm du bruker. (Målingen er ikke laget.) | Appen skal måle hvor mye strøm du bruker. Målingen kommer [AVKLAR INTERNT: når]. |
 | Hver natt oppdaterer vi prisene. (Kilden sier én gang i uka.) | Én gang i uka oppdaterer vi prisene. |
+| 5 nye priser venter på deg. (Prisene er bare foreslått. Ingen pris er endret ennå.) | 5 forslag til nye priser venter på deg. |
+
+### B18. Forsvar og innrømmelser
+
+Teksten forsvarer seg mot en anklage leseren ikke har kommet med, eller den innleder et faktum som om det er en tilståelse. Leseren begynner å lure på hva avsenderen skjuler. Si faktumet, og si hva det betyr for leseren. Teksten gir leseren det som trengs for å velge, uten å si det rett ut.
+
+Typiske fraser: «Vi skal være ærlige:», «Det er ingen hemmelighet at», «Her er tallene, så kan du vurdere selv», «Vi har ingenting å skjule».
+
+| Dårlig | Bra |
+|---|---|
+| Vi skal være ærlige: Sofaen er ikke laget i Norge. | Sofaen er laget i Litauen og har ti års garanti på rammen. |
+| Prisen er ikke satt opp for å tjene mer penger. | Prisen gikk opp 200 kroner fordi treverket ble dyrere i år. |
